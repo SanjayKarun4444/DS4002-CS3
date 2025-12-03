@@ -43,7 +43,8 @@ To set up all dependencies, refer to requirements.txt or manually install these 
 
 │ ├──     Tickets by Hour.png
 
-** MUST CREATE OUTPUT FOLDER PRIOR TO RUNNING SCRIPTS ** 
+**MUST CREATE OUTPUT FOLDER PRIOR TO RUNNING SCRIPTS** 
+
 ├── OUTPUT/
 
 │ ├──     feature_importance.csv
